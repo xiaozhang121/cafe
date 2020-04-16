@@ -1,0 +1,65 @@
+.find .fill.data-v-175d0172 {
+  height: 25rpx;
+  background-color: yellow;
+  width: 100%;
+}
+.find .title.data-v-175d0172 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  height: 10%;
+}
+.find .title .goon.data-v-175d0172,
+.find .title .order.data-v-175d0172 {
+  margin: 4% 4% 0 4%;
+  font-size: 36rpx;
+  height: 55rpx;
+}
+.find .title .order.data-v-175d0172:hover {
+  border-bottom: 6rpx solid yellow;
+}
+.find .title .goon.data-v-175d0172:hover {
+  border-bottom: 6rpx solid yellow;
+}
+.find .ordery.data-v-175d0172 {
+  box-sizing: border-box;
+  padding: 10% 3%;
+  width: 100%;
+  position: absolute;
+  top: 114rpx;
+  left: 0;
+  bottom: 0;
+  background-color: #f2f2f2;
+}
+.find .ordery .one.data-v-175d0172 {
+  margin-bottom: 10%;
+  position: relative;
+  height: 320rpx;
+  background-color: white;
+  border-radius: 20rpx;
+}
+.find .ordery .one .one-tp.data-v-175d0172 {
+  padding: 0 4%;
+  height: 220rpx;
+  border-radius: 20rpx;
+  background-color: white;
+  position: relative;
+  bottom: -20rpx;
+}
+.find .ordery .one .one-bt.data-v-175d0172 {
+  height: 100rpx;
+  border-radius: 20rpx;
+  background-color: #FFE60F;
+  line-height: 120rpx;
+  text-align: center;
+  color: white;
+}
+.find .ordery .one .sitnum.data-v-175d0172 {
+  position: absolute;
+  right: 10%;
+  top: 15%;
+}
+
